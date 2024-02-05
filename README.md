@@ -31,7 +31,7 @@ Developers are encouraged to use [IntelliJ](https://www.jetbrains.com/idea/).
 
 1. Clone the repository:
    ```html
-   git clone https://github.com/2cb4646/WebstaurantStore-Code-Screen-Task.git
+   https://github.com/2cb4646/WebstaurantStore.git
    ```
 
 2.  
