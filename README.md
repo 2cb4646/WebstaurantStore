@@ -24,6 +24,7 @@ but does not at this time for demonstration purposes.
 This project uses [JDK 17](https://www.oracle.com/java/technologies/downloads/) and [Maven 3.3 or newer](https://maven.apache.org/).
 
 Developers are encouraged to use [IntelliJ](https://www.jetbrains.com/idea/).
+
 ----------------------------------
 
 ## Executing Tests
