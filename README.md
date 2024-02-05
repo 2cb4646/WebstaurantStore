@@ -29,17 +29,17 @@ Developers are encouraged to use [IntelliJ](https://www.jetbrains.com/idea/).
 ## Executing Tests
 
 
-####1. Clone the repository:
+1. Clone the repository:
    ```html
    git clone https://github.com/2cb4646/WebstaurantStore-Code-Screen-Task.git
    ```
 
-####2.  
-#####Run suite file and or test in IDE.
+2.  
+Run suite file and or test in IDE.
 
 -or-
 
-#####Build project
+Build project
 ```html
 Navigate to project in command prompt.
 ```
