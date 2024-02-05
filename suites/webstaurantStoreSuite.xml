@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WebstaurantStore Cart Test Suite">
+
+
+    <test name="Cart Test">
+        <classes>
+            <class name="com.webstaurant.CartTest"></class>
+        </classes>
+    </test>
+
+
+</suite>
